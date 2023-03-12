@@ -8,5 +8,6 @@ export const environment = {
     authDomain: 'portfolio-02-713ce.firebaseapp.com',
     messagingSenderId: '192861532368',
   },
-  production: true
+  production: true,
+  URL: 'https://backendbelen.onrender.com/'
 };
