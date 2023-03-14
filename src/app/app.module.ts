@@ -65,7 +65,6 @@ import { environment } from 'src/environments/environment';
     provideFirebaseApp(() => initializeApp(environment.firebase)),
     provideStorage(() => getStorage())
 
-
   ],
   providers: [
     interceptorProvider

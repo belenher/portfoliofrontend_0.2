@@ -9,5 +9,5 @@ export const environment = {
     messagingSenderId: '192861532368',
   },
   production: true,
-  URL: 'https://backendbelen.onrender.com/'
+  URL: 'https://backendbelen1.onrender.com/',
 };

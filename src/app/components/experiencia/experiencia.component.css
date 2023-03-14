@@ -1,7 +1,10 @@
 .row{
     padding:35px;
-    padding-top:90px;
-       
+    padding-top:90px;      
+}
+h1{
+    color:white;
+    padding:35px 
 }
 div{
     color:white;
